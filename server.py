@@ -1,7 +1,7 @@
 import socket
 
 host = "127.0.0.1"
-port = 40404
+port = 40406
 
 http_response = (
         f"HTTP/1.0 200 OK\r\n"
